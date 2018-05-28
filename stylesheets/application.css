@@ -93,7 +93,7 @@ h2, h3, h4 { border-bottom: 0; }
 .wiki.wiki-page h1 { border-bottom: 1px solid #ccc; }
 .wiki.wiki-page > h2 { border-bottom: 1px solid #ccc; padding-bottom: 6px; }
 
-#main-menu { left: 0; width: 100%; background: #FAFAFA; background: -webkit-linear-gradient(top, #fafafa, #eaeaea); background: linear-gradient(to bottom, #fafafa, #eaeaea); -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#fafafa',endColorstr='#eaeaea')"; border: 1px solid #EAEAEA; border-bottom-color: #CACACA; border-radius: 3px; margin-right: 0; position: relative; }
+#main-menu { left: 0; width: 100%; background: #FAFAFA; background: -webkit-linear-gradient(top, #fafafa, #eaeaea); background: linear-gradient(to bottom, #fafafa, #eaeaea); -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#fafafa',endColorstr='#eaeaea')"; border: 1px solid #EAEAEA; border-bottom-color: #CACACA; border-radius: 3px; margin-right: 0; margin-top: 55px; position: relative; }
 #main-menu ul { *zoom: 1; margin-top: 0; padding-left: 0; background-color: transparent !important; }
 #main-menu ul:before, #main-menu ul:after { display: table; content: ""; line-height: 0; }
 #main-menu ul:after { clear: both; }
