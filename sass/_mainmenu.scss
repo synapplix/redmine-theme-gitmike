@@ -5,8 +5,8 @@
   width: 100%;
   // height: 40px;
   // overflow: hidden;
-  background: #FAFAFA;
-  background: linear-gradient(to bottom, #fafafa, #eaeaea);
+  background: #e6eff5;
+  background: linear-gradient(to bottom, #e6eff5, #73a5cb);
   -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#fafafa',endColorstr='#eaeaea')";
   border: 1px solid #EAEAEA;
   border-bottom-color: #CACACA;
@@ -63,8 +63,8 @@
         &.selected {
           color: #000;
           border-bottom: 2px solid #D26911 !important;
-          background-color: #ebebeb;
-          background-image: linear-gradient(#fcfcfc, #ebebeb);
+          background-color: #e6eff5;
+          background-image: linear-gradient(#e6eff5, #e6eff5);
           background-repeat: repeat-x;
           &:hover {
             color: #000;

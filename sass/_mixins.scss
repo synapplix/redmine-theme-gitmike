@@ -1,3 +1,4 @@
+@import 'variables';
 //
 // Mixins
 // --------------------------------------------------
@@ -504,14 +505,14 @@
 
 // github
 @mixin github-header {
-  background-color: #f3f3f3;
-  background-image: linear-gradient(#f9f9f9, #f3f3f3);
+  background-color: #73a5cb;
+  background-image: linear-gradient(#e6eff5, #73a5cb);
   background-repeat: repeat-x;
   text-shadow: 0 1px 0 #fff;
   border-bottom: 1px solid #e5e5e5;
 }
 
 @mixin github-pagehead {
-  background-color: #fafafa;
+  background-color: $background-color-synapplix-blue2;
   border-bottom: 1px solid #eee;
 }
