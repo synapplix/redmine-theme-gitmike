@@ -30,10 +30,11 @@ git clone git://github.com/makotokw/redmine-theme-gitmike.git gitmike
 ## Development
 
 ```
-cd redmine/public/theme
+cd public/themes
 git clone git://github.com/makotokw/redmine-theme-gitmike.git gitmike
 cd gitmike
 gem install compass
+PATH=~/.local/node/v8.11.1/bin:$PATH
 npm install -g gulp
 npm install
 gulp debug
