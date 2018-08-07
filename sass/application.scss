@@ -7,6 +7,16 @@
 
 //@import 'ja';
 
+#login-form {
+  margin: 5em auto 2em auto;
+  padding: 20px;
+  width: 340px;
+  border: 1px solid $synapplix-blue-2;
+  background-color: $synapplix-blue-3;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
 body {
   color: $text-color;
   background-color: $background-color;

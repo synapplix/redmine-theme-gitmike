@@ -504,14 +504,14 @@
 
 // github
 @mixin github-header {
-  background-color: #f3f3f3;
-  background-image: linear-gradient(#f9f9f9, #f3f3f3);
+  background-color: $synapplix-blue-2;
+  background-image: linear-gradient($synapplix-blue-3, $synapplix-blue-2);
   background-repeat: repeat-x;
   text-shadow: 0 1px 0 #fff;
   border-bottom: 1px solid #e5e5e5;
 }
 
 @mixin github-pagehead {
-  background-color: #fafafa;
+  background-color: $synapplix-blue-3;
   border-bottom: 1px solid #eee;
 }
